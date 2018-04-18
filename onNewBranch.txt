@@ -6,5 +6,3 @@ salam
 hi
 ...
 fdfd
-dfsf
->>>>>>> newBranch
